@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../schema.json
+blockExplorers:
+  - apiUrl: https://testnet-explorer.gobob.xyz/api
+    family: etherscan
+    name: Etherscan
+    url: https://testnet-explorer.gobob.xyz/
+blocks:
+  confirmations: 1
+  estimateBlockTime: 13
+  reorgPeriod: 2
+chainId: 111
+displayName: BOB Testnet
+domainId: 111
+isTestnet: true
+name: bobtestnet
+nativeToken:
+  decimals: 18
+  name: Ether
+  symbol: ETH
+protocol: ethereum
+rpcUrls:
+  - http: https://testnet.rpc.gobob.xyz/
