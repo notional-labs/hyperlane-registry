@@ -9,10 +9,10 @@ blocks:
   estimateBlockTime: 13
   reorgPeriod: 2
 chainId: 60808
-displayName: BOB
+displayName: BOB Mainnet
 domainId: 60808
-isTestnet: true
-name: BOB Mainnet
+isTestnet: false
+name: bob
 nativeToken:
   decimals: 18
   name: Ether

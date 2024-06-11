@@ -23,5 +23,7 @@ nativeToken:
   symbol: ETH
 protocol: ethereum
 rpcUrls:
-  - http: https://ethereum.publicnode.com
-  - http: https://cloudflare-eth.com
+  - http: https://quaint-misty-surf.quiknode.pro/1bb563c014f997d7b9f2e8a4dc9c5208c9f625b4/
+  - http: https://rpc.ankr.com/eth
+transactionOverrides:
+  gasPrice: 8000000000

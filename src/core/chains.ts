@@ -9,6 +9,8 @@ export enum CoreChain {
   arbitrum = 'arbitrum',
   avalanche = 'avalanche',
   base = 'base',
+  bob = 'bob',
+  bobtestnet = 'bobtestnet',
   bsc = 'bsc',
   bsctestnet = 'bsctestnet',
   celo = 'celo',
