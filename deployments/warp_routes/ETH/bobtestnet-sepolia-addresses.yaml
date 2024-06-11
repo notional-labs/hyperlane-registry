@@ -1,0 +1,4 @@
+sepolia:
+  native: "0x8B075cFb7551B28D9b1F132105E36E5eA74299D9"
+bobtestnet:
+  synthetic: "0x4c26156ad2000C5121f79BDEE25422473c0C8d18"
