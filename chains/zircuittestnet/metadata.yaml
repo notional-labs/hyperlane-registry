@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../schema.json
+blockExplorers:
+  - apiUrl: https://explorer.zircuit.com/api
+    family: etherscan
+    name: Etherscan
+    url: https://explorer.zircuit.com
+blocks:
+  confirmations: 1
+  estimateBlockTime: 13
+  reorgPeriod: 2
+chainId: 48899
+displayName: Zircuit Testnet
+domainId: 48899
+isTestnet: true
+name: zircuittestnet
+nativeToken:
+  decimals: 18
+  name: Ether
+  symbol: ETH
+protocol: ethereum
+rpcUrls:
+  - http: https://zircuit1.p2pify.com/
